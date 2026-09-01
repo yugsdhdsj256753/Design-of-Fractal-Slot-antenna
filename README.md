@@ -54,7 +54,7 @@ The antenna design process involved the following steps:
 ## 📊 Steps
 ### 📸 Antenna Design
 <img width="526" height="572" alt="image" src="https://github.com/user-attachments/assets/c3690e15-911b-46c3-b065-379dba66cb0a" />
-### creating a ground plane size of 140*150 mm^2
+### creating a ground plane size of 140*150 mm
 <img width="704" height="441" alt="image" src="https://github.com/user-attachments/assets/c91f5937-099b-4084-9f5f-301d35471e65" />
 ### creating the patch over the subtrate
 <img width="751" height="445" alt="image" src="https://github.com/user-attachments/assets/c2c63afb-f2e4-483e-b7e4-e8ae2586f9db" />
