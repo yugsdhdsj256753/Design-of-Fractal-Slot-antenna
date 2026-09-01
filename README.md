@@ -52,13 +52,13 @@ The antenna design process involved the following steps:
 8. Simulating and analyzing antenna performance.
 
 ## 📊 Steps
-## 📸 Antenna Design
+### 📸 Antenna Design
 <img width="526" height="572" alt="image" src="https://github.com/user-attachments/assets/c3690e15-911b-46c3-b065-379dba66cb0a" />
-## CREATING A GROUND PLANE OF SIZE 140*150 mm^2
+### CREATING A GROUND PLANE OF SIZE 140*150 mm^2
 <img width="704" height="441" alt="image" src="https://github.com/user-attachments/assets/c91f5937-099b-4084-9f5f-301d35471e65" />
-## CREATING THE PATCH OVER THE SUBSTRATE
+### CREATING THE PATCH OVER THE SUBSTRATE
 <img width="751" height="445" alt="image" src="https://github.com/user-attachments/assets/c2c63afb-f2e4-483e-b7e4-e8ae2586f9db" />
-## CREATION OF THE FRACTAL SLOT
+### CREATION OF THE FRACTAL SLOT
 ### FRACTAL SLOT AFTER UNITING
 <img width="507" height="394" alt="image" src="https://github.com/user-attachments/assets/73887993-6090-4c0d-a070-1f2f1045047c" />
 ### ITERATION 1
@@ -67,12 +67,12 @@ The antenna design process involved the following steps:
 <img width="469" height="413" alt="image" src="https://github.com/user-attachments/assets/5cfe977f-0e39-4fe8-83eb-da9340fb4ec2" />
 ### AFTER FURTHER ITERATIONS
 <img width="469" height="413" alt="image" src="https://github.com/user-attachments/assets/1770e49d-aeb2-4784-b6b4-4b03e9a1aab1" />
-## PATCH WITH FRACTAL SLOT
+### PATCH WITH FRACTAL SLOT
 <img width="769" height="469" alt="image" src="https://github.com/user-attachments/assets/0a424e85-bd62-428c-8011-4b912b2843e7" />
-## PROVIDING DIFFERENTIAL FEED
+### PROVIDING DIFFERENTIAL FEED
 ### FRONT VIEW
 <img width="901" height="497" alt="image" src="https://github.com/user-attachments/assets/8fd1dd55-0f71-47db-854e-84894580bad5" />
-## VALIDATION CHECK
+### VALIDATION CHECK
 <img width="966" height="544" alt="image" src="https://github.com/user-attachments/assets/d8996222-e9da-4411-9041-39b800b2380f" />
 ## 📊 Simulation results
 ### Return Loss
