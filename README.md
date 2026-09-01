@@ -54,25 +54,25 @@ The antenna design process involved the following steps:
 ## 📊 Steps
 ### 📸 Antenna Design
 <img width="526" height="572" alt="image" src="https://github.com/user-attachments/assets/c3690e15-911b-46c3-b065-379dba66cb0a" />
-### CREATING A GROUND PLANE OF SIZE 140*150 mm^2
+### creating a ground plane size of 140*150 mm^2
 <img width="704" height="441" alt="image" src="https://github.com/user-attachments/assets/c91f5937-099b-4084-9f5f-301d35471e65" />
-### CREATING THE PATCH OVER THE SUBSTRATE
+### creating the patch over the subtrate
 <img width="751" height="445" alt="image" src="https://github.com/user-attachments/assets/c2c63afb-f2e4-483e-b7e4-e8ae2586f9db" />
-### CREATION OF THE FRACTAL SLOT
-### FRACTAL SLOT AFTER UNITING
+### creation of fractal slot
+### fractal slot after uniting
 <img width="507" height="394" alt="image" src="https://github.com/user-attachments/assets/73887993-6090-4c0d-a070-1f2f1045047c" />
-### ITERATION 1
+### iteration 1
 <img width="451" height="385" alt="image" src="https://github.com/user-attachments/assets/f38bec98-b896-4f07-b347-0ad9bdfa4ccd" />
-### 2ND ITERATION
+### 2nd iteration
 <img width="469" height="413" alt="image" src="https://github.com/user-attachments/assets/5cfe977f-0e39-4fe8-83eb-da9340fb4ec2" />
-### AFTER FURTHER ITERATIONS
+### after further iterations
 <img width="469" height="413" alt="image" src="https://github.com/user-attachments/assets/1770e49d-aeb2-4784-b6b4-4b03e9a1aab1" />
-### PATCH WITH FRACTAL SLOT
+### patch with fractal slot
 <img width="769" height="469" alt="image" src="https://github.com/user-attachments/assets/0a424e85-bd62-428c-8011-4b912b2843e7" />
-### PROVIDING DIFFERENTIAL FEED
-### FRONT VIEW
+### providing differntial feed
+### front view
 <img width="901" height="497" alt="image" src="https://github.com/user-attachments/assets/8fd1dd55-0f71-47db-854e-84894580bad5" />
-### VALIDATION CHECK
+### validation check
 <img width="966" height="544" alt="image" src="https://github.com/user-attachments/assets/d8996222-e9da-4411-9041-39b800b2380f" />
 ## 📊 Simulation results
 ### Return Loss
