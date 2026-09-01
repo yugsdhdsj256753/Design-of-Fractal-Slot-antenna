@@ -51,7 +51,41 @@ The antenna design process involved the following steps:
 7. Performing design validation.
 8. Simulating and analyzing antenna performance.
 
-## 📊 Simulation Results
+## 📊 Steps
+## 📸 Antenna Design
+<img width="526" height="572" alt="image" src="https://github.com/user-attachments/assets/c3690e15-911b-46c3-b065-379dba66cb0a" />
+## CREATING A GROUND PLANE OF SIZE 140*150 mm^2
+<img width="704" height="441" alt="image" src="https://github.com/user-attachments/assets/c91f5937-099b-4084-9f5f-301d35471e65" />
+## CREATING THE PATCH OVER THE SUBSTRATE
+<img width="751" height="445" alt="image" src="https://github.com/user-attachments/assets/c2c63afb-f2e4-483e-b7e4-e8ae2586f9db" />
+## CREATION OF THE FRACTAL SLOT
+### FRACTAL SLOT AFTER UNITING
+<img width="507" height="394" alt="image" src="https://github.com/user-attachments/assets/73887993-6090-4c0d-a070-1f2f1045047c" />
+### ITERATION 1
+<img width="451" height="385" alt="image" src="https://github.com/user-attachments/assets/f38bec98-b896-4f07-b347-0ad9bdfa4ccd" />
+### 2ND ITERATION
+<img width="469" height="413" alt="image" src="https://github.com/user-attachments/assets/5cfe977f-0e39-4fe8-83eb-da9340fb4ec2" />
+### AFTER FURTHER ITERATIONS
+<img width="469" height="413" alt="image" src="https://github.com/user-attachments/assets/1770e49d-aeb2-4784-b6b4-4b03e9a1aab1" />
+## PATCH WITH FRACTAL SLOT
+<img width="769" height="469" alt="image" src="https://github.com/user-attachments/assets/0a424e85-bd62-428c-8011-4b912b2843e7" />
+## PROVIDING DIFFERENTIAL FEED
+### FRONT VIEW
+<img width="901" height="497" alt="image" src="https://github.com/user-attachments/assets/8fd1dd55-0f71-47db-854e-84894580bad5" />
+## VALIDATION CHECK
+<img width="966" height="544" alt="image" src="https://github.com/user-attachments/assets/d8996222-e9da-4411-9041-39b800b2380f" />
+## 📊 Simulation results
+### Return Loss
+<img width="980" height="572" alt="image" src="https://github.com/user-attachments/assets/158ed797-02c4-4fb7-8e3b-b5dc42435539" />
+### VSWR
+<img width="1013" height="610" alt="image" src="https://github.com/user-attachments/assets/b1a21a6d-de14-4997-995c-e96b0167df54" />
+
+
+### Gain
+<img width="1107" height="464" alt="image" src="https://github.com/user-attachments/assets/a0037258-4cd4-4794-a6e5-2d86f419b67b" />
+
+### Radiation Pattern
+<img width="780" height="640" alt="image" src="https://github.com/user-attachments/assets/2ec4da1f-1b1b-472a-aafe-66be2fb3e66b" />
 
 | Parameter | Obtained Value |
 |---|---:|
