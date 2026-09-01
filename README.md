@@ -158,10 +158,11 @@ The following antenna characteristics were analyzed:
 
 # 👨‍💻 Authors
 
-**Yuvaraj Dhayal**  
-Electronics and Communication Engineering
-
+**Yuvaraj Dhayal** 
 **Kantharaj S**
+Electronics and Communication Engineering
+B.E ECE at Mepco Schlenk Engineering College, Sivakasi
+
 
 ---
 
